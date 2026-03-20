@@ -14,9 +14,8 @@ Simple Design Todo List using React JS & TailwindCSS
 
 ## How to Run
 
-1. Go to terminal type cd client
-2. Install dependencies: `npm install`
-3. Run the app: `npm run dev`
+1. Install dependencies: `npm install`
+2. Run the app: `npm run dev`
 
 ## Folder Structure
 
