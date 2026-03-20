@@ -59,7 +59,7 @@ const TodoList = () => {
   };
 
   return (
-    <div className="bg-linear-to-tl from-pink-500 to-pink-100 flex flex-col w-full h-screen items-center justify-center gap-2">
+    <div className="bg-linear-to-bl from-blue-100 to-indigo-300 flex flex-col w-full h-screen items-center justify-center gap-2">
       <h1 className="text-2xl font-semibold mb-3">Welcome to my TodoList !</h1>
       {showaddmessage && (
         <h5 className="bg-green-500 text-white rounded-2xl px-10 py-1">
